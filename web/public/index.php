@@ -11,5 +11,6 @@ $foo = new App\Acme\Foo();
     </head>
     <body>
         <h1>Docker <?php echo $foo->getName(); ?></h1>
+        You have successfully completed Docker Lab!!!
     </body>
 </html>
